@@ -1,0 +1,10 @@
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/bin/Debug/netcoreapp2.0/AkkaMeetUpDemo.deps.json
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/bin/Debug/netcoreapp2.0/AkkaMeetUpDemo.runtimeconfig.json
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/bin/Debug/netcoreapp2.0/AkkaMeetUpDemo.runtimeconfig.dev.json
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/bin/Debug/netcoreapp2.0/AkkaMeetUpDemo.dll
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/bin/Debug/netcoreapp2.0/AkkaMeetUpDemo.pdb
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/obj/Debug/netcoreapp2.0/AkkaMeetUpDemo.csproj.CoreCompileInputs.cache
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/obj/Debug/netcoreapp2.0/AkkaMeetUpDemo.AssemblyInfoInputs.cache
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/obj/Debug/netcoreapp2.0/AkkaMeetUpDemo.AssemblyInfo.cs
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/obj/Debug/netcoreapp2.0/AkkaMeetUpDemo.dll
+/Users/alfredherr/Projects/AkkaMeetUpDemo/AkkaMeetUpDemo/obj/Debug/netcoreapp2.0/AkkaMeetUpDemo.pdb

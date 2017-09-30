@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{70826D42-A41E-46F9-9C4A-7CB0A072CA32}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AkkaMeetUpDemo/Program.cs">
+    <Files>
+      <File FileName="AkkaMeetUpDemo/Program.cs" Line="20" Column="20" />
+      <File FileName="AkkaMeetUpDemo/Actors/DemoSupervisor.cs" Line="30" Column="33" />
+      <File FileName="AkkaMeetUpDemo/Actors/DemoWorker.cs" Line="40" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AkkaMeetUpDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
