@@ -2,5 +2,5 @@
 Demos Presented at MeetUps
 
 ## Akka.Net
-[Akka Demo](https://github.com/alfredherr/MeetUpDemos/tree/master/AkkaDemo)
-[Presentation Slides](https://github.com/alfredherr/MeetUpDemos/blob/master/AkkaDotNetPresentation.pdf)
+1. [Akka Demo](https://github.com/alfredherr/MeetUpDemos/tree/master/AkkaDemo)
+2. [Presentation Slides](https://github.com/alfredherr/MeetUpDemos/blob/master/AkkaDotNetPresentation.pdf)
